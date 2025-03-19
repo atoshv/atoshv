@@ -31,11 +31,13 @@ Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 ye
 
 
 🛠️ CI/CD & Cloud:
+
 [![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure&logoColor=white)](https://azure.microsoft.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 Version Control:
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 
@@ -52,6 +54,7 @@ Version Control:
 Automation isn’t just about testing—it’s about building a culture of efficiency and innovation. My goal is to eliminate repetitive tasks, enhance software quality, and drive agile practices across development teams. I believe in leading by example, and mentoring the next generation of automation engineers.
 
 🌍 Let’s Connect & Collaborate: 
+
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_2023.png)](https://www.linkedin.com/in/atoshveer)
 [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_Twitter.png)](https://twitter.com/atoshveer)
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.jpg)](mailto:veeratosh@gmail.com)
