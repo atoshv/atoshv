@@ -28,21 +28,22 @@ Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 ye
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![SoapUI](https://img.shields.io/badge/SoapUI-6D8E33?style=flat-square&logo=soapui&logoColor=white)](https://www.soapui.org/)
 [![Karate](https://img.shields.io/badge/Karate-009639?style=flat-square&logo=karate&logoColor=white)](https://karatelabs.github.io/karate/)
+
+
+🛠️ CI/CD & Cloud:
 [![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure&logoColor=white)](https://azure.microsoft.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-
-CI/CD & Cloud:
-
-
 Version Control:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
 
 📊 GitHub Stats:
 
 
 💡 Key Highlights & Achievements:
+
 🏆 Architected a test automation framework from scratch that reduced regression testing time by 50%.
 🌍 Successfully automated testing across multiple platforms including Web, Mobile, and APIs.
 🚀 Led a team of 10+ engineers to build a robust CI/CD pipeline, integrating automated testing seamlessly into the process.
