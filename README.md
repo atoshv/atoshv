@@ -1,5 +1,6 @@
 👨‍💻 Welcome to My GitHub Profile! 🚀
-Hey there! I'm [Your Name], a passionate Lead Test Automation Engineer with over 10 years of experience in revolutionizing how software quality is ensured. I specialize in designing highly scalable and efficient test automation frameworks and leading engineering teams toward excellence.
+
+Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 years of experience in revolutionizing how software quality is ensured. I specialize in designing highly scalable and efficient test automation frameworks and leading engineering teams toward excellence.
 
 🎯 What I Do:
 
@@ -29,10 +30,13 @@ Version Control:
 🚀 My Philosophy:
 Automation isn’t just about testing—it’s about building a culture of efficiency and innovation. My goal is to eliminate repetitive tasks, enhance software quality, and drive agile practices across development teams. I believe in leading by example, and mentoring the next generation of automation engineers.
 
-🌍 Let’s Connect & Collaborate:
-LinkedIn: https://www.linkedin.com/in/atoshveer
-Twitter: https://www.twitter.com/atoshveer
-Email: veeratosh@gmail.com
+🌍 Let’s Connect & Collaborate: 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_2023.png)](https://www.linkedin.com/in/your-linkedin-profile/)
+: https://www.linkedin.com/in/atoshveer
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+: https://www.twitter.com/atoshveer
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+: veeratosh@gmail.com
 Personal Portfolio: 
 
 🛠️ Featured Projects:
