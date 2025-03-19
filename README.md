@@ -20,6 +20,7 @@ Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 ye
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 
+
 🔧 Test Automation Tools:
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
@@ -30,17 +31,21 @@ Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 ye
 [![Karate](https://img.shields.io/badge/Karate-009639?style=flat-square&logo=karate&logoColor=white)](https://karatelabs.github.io/karate/)
 
 
+
 🛠️ CI/CD & Cloud:
 
 [![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure&logoColor=white)](https://azure.microsoft.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
+
+
 🗂️ Version Control:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
 
 
 📊 GitHub Stats:
@@ -55,6 +60,7 @@ Hey there! I'm Atosh, a passionate Lead Test Automation Engineer with over 10 ye
 🚀 My Philosophy:
 Automation isn’t just about testing—it’s about building a culture of efficiency and innovation. My goal is to eliminate repetitive tasks, enhance software quality, and drive agile practices across development teams. I believe in leading by example, and mentoring the next generation of automation engineers.
 
+
 🌍 Let’s Connect & Collaborate: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atoshveer)  
@@ -62,6 +68,7 @@ Automation isn’t just about testing—it’s about building a culture of effic
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:veeratosh@gmail.com)
 
 Personal Portfolio: 
+
 
 🛠️ Featured Projects:
 A test automation framework built using Selenium & Cucumber.
