@@ -57,9 +57,9 @@ Automation isn’t just about testing—it’s about building a culture of effic
 
 🌍 Let’s Connect & Collaborate: 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_2023.png)](https://www.linkedin.com/in/atoshveer)  
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_Twitter.png)](https://twitter.com/atoshveer)  
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.jpg)](mailto:veeratosh@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atoshveer)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/atoshveer)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:veeratosh@gmail.com)
 
 Personal Portfolio: 
 
